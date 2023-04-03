@@ -1,7 +1,7 @@
 #!/usr/bin/python3
-"""creating an enmpty rectangle class"""
 
+"""Creating a rectangle class"""
 
 class Rectangle:
-	"""This class is a description of a triangle"""
+	"""This is a description of a rectangle class"""
 	pass
